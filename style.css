@@ -1,0 +1,26 @@
+#display{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    height: 50vh;
+    width: 50vw;
+    margin: 10px auto;
+}
+#colorOutput{
+    margin: 5px auto;
+    background-color: cornflowerblue;
+    height: 50%;
+    width: 50%;
+
+}
+#colortext{
+    margin: 5px auto;
+}
+button{
+    width: 100px;
+    margin: 3px auto;
+    background-color: cadetblue;
+    border-radius: 4px;
+    box-shadow: 2px 2px black;
+}
